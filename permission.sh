@@ -14,7 +14,9 @@ function R
 		fi
 	done
 }
-while [ true ]; do
-	sleep 1
-	R
-done
+
+## part 2
+#while [ true ]; do
+#	sleep 1
+#	R
+#done
