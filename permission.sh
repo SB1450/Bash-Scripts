@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "full path to directory: " path
+read -e -p "full path to directory: " path
 cd path
 function R
 {
